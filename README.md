@@ -13,9 +13,7 @@
 
 <h3 align="left">Blog:</h3>
 <p align="left">
-Hungarian: <a href="https://zer0-hu.hashnode.dev/" target="blank">https://zer0-hu.hashnode.dev/</a>
-
-English: <a href="https://zer0-en.hashnode.dev/" target="blank">https://zer0-en.hashnode.dev/</a>
+<a href="https://hashnode.com/@maurerkrisztian" target="blank">https://hashnode.com/@maurerkrisztian</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
