@@ -6,14 +6,16 @@
 <a href="https://linkedin.com/in/krisztián-maurer-7681a6192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisztián-maurer-7681a6192" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Blog:</h3>
-<p align="left">
-<a href="https://zer0gg.hashnode.dev/" target="blank">https://zer0gg.hashnode.dev/</a>
-</p>
-
 <h3 align="left">CV:</h3>
 <p align="left">
 <a href="https://maurerkrisztian.github.io/CV/" target="blank">https://maurerkrisztian.github.io/CV/</a>
+</p>
+
+<h3 align="left">Blog:</h3>
+<p align="left">
+Hungarian: <a href="https://zer0-hu.hashnode.dev/" target="blank">https://zer0-hu.hashnode.dev/</a>
+
+English: <a href="https://zer0-en.hashnode.dev/" target="blank">https://zer0-en.hashnode.dev/</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
