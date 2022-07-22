@@ -13,7 +13,9 @@
 
 <h3 align="left">Blog:</h3>
 <p align="left">
-<a href="https://hashnode.com/@maurerkrisztian" target="blank">https://hashnode.com/@maurerkrisztian</a>
+https://dev.to/maurerkrisztian
+
+https://hashnode.com/@maurerkrisztian
 
 https://maurerkrisztian.hashnode.dev/
 </p>
