@@ -8,7 +8,7 @@
 
 <h3 align="left">CV:</h3>
 <p align="left">
-<a href="https://maurerkrisztian.github.io/CV/" target="blank">https://maurerkrisztian.github.io/CV/</a>
+https://www.maurerkrisztian.com/
 </p>
 
 <h3 align="left">Blog:</h3>
@@ -31,5 +31,3 @@ https://discord.gg/wjC4Cw8B
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurerkrisztian&show_icons=true&locale=en" alt="maurerkrisztian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurerkrisztian&" alt="maurerkrisztian" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maurerkrisztian" alt="maurerkrisztian" /></a> </p>
