@@ -1,0 +1,73 @@
+<h1 align="center">Hi 👋, I'm Maurer Krisztian</h1>
+<h3 align="center">A passionate full stack developer and open-source enthusiast from Hungary</h3>
+I'm the author of [OpenFlame](https://github.com/OpenZer0) packages.
+
+#### 👷 Check out what I'm currently working on
+
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (1 day ago)
+- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (1 day ago)
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (1 day ago)
+- [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (1 week ago)
+- [OpenZer0/type-chef-di-documentation](https://github.com/OpenZer0/type-chef-di-documentation) - documentation (1 week ago)
+
+#### 🌱 My latest projects
+
+- [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro)
+- [MaurerKrisztian/novu-demo](https://github.com/MaurerKrisztian/novu-demo)
+- [MaurerKrisztian/youtube-downloader-nx](https://github.com/MaurerKrisztian/youtube-downloader-nx)
+- [MaurerKrisztian/youtube-downloader-ui-vue](https://github.com/MaurerKrisztian/youtube-downloader-ui-vue)
+- [MaurerKrisztian/youtube-downloader-api](https://github.com/MaurerKrisztian/youtube-downloader-api)
+
+#### 🔭 Latest releases I've contributed to
+
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/image@0.11.6](https://github.com/withastro/astro/releases/tag/%40astrojs/image%400.11.6), 3 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 1 week ago) -  General-purpose dependency injection framework (IoC)
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.9.0](https://github.com/novuhq/novu/releases/tag/v0.9.0), 1 week ago) - The open-source notification infrastructure for developers
+- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) ([v3.0.0](https://github.com/metadevpro/openapi3-ts/releases/tag/v3.0.0), 3 months ago) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts.
+
+#### 🔨 Latest Pull Requests I published
+
+- [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 day ago)
+- [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (2 weeks ago)
+- [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (3 weeks ago)
+- [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (4 months ago)
+- [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (4 months ago)
+
+#### 📜 My recent blog posts
+
+- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (1 week ago)
+- [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (2 weeks ago)
+- [Too many Chrome tabs 😩💣](https://dev.to/maurerkrisztian/too-many-chrome-tabs-57a2) (2 months ago)
+- [Why we need backend and forntend?](https://dev.to/maurerkrisztian/why-we-need-backend-and-forntend-454k) (2 months ago)
+- [Do you need side projects?](https://dev.to/maurerkrisztian/do-you-need-side-projects-2n26) (2 months ago)
+
+#### ⭐ Recent stars
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes (1 day ago)
+- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [derlin/dev.to-is-for-web-devs-and-beginners](https://github.com/derlin/dev.to-is-for-web-devs-and-beginners) - Analysis of the tags that work on dev.to. Article: https://dev.to/derlin/devto-is-for-webdevs-and-beginners-i-have-data-to-prove-it-54c4 (2 days ago)
+
+#### 💬 Feedback
+
+If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
+and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
+
+### 📫 How to reach me
+
+<p align="left">
+<a href="https://linkedin.com/in/krisztián-maurer-7681a6192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krisztián-maurer-7681a6192" height="30" width="40" /></a>
+</p>
+<h3 align="left">Discord:</h3>
+<a href="https://discord.com/users/zer0#1064"> zer0#1064</a>
+
+<h3 align="left">CV:</h3>
+<p align="left">
+https://www.maurerkrisztian.com/
+</p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurerkrisztian&" alt="maurerkrisztian" /></p>
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
