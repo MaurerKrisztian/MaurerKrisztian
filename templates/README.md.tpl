@@ -1,9 +1,9 @@
+![Maurer Krisztian](https://user-images.githubusercontent.com/48491140/201497104-1836aea0-27cc-42fa-909c-26219dda6d61.png)
+
 <h1 align="center">Hi 👋, I'm Maurer Krisztian</h1>
 <h3 align="center">A passionate full stack developer and open-source enthusiast from Hungary</h3>
 I'm the author of https://github.com/OpenZer0 packages.
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurerkrisztian&" alt="maurerkrisztian" /></p>
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
@@ -40,5 +40,7 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - dev.to: https://dev.to/maurerkrisztian
 
 ### CV https://www.maurerkrisztian.com/
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurerkrisztian&" alt="maurerkrisztian" /></p>
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
