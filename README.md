@@ -6,26 +6,26 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (1 day ago)
-- [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (2 days ago)
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 days ago)
+- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) (1 day ago)
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (2 days ago)
+- [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (3 days ago)
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (4 days ago)
 - [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts. (1 week ago)
-- [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.1](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.1), 3 days ago) - REST framework
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.12.0](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.12.0), 3 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.1](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.1), 4 days ago) - REST framework
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.12.0](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.12.0), 4 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 2 weeks ago) -  General-purpose dependency injection framework (IoC)
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.9.0](https://github.com/novuhq/novu/releases/tag/v0.9.0), 2 weeks ago) - The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
 - [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) ([v3.0.0](https://github.com/metadevpro/openapi3-ts/releases/tag/v3.0.0), 3 months ago) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts.
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (5 days ago)
+- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (6 days ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 week ago)
-- [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (3 weeks ago)
-- [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (4 weeks ago)
+- [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (4 weeks ago)
+- [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (1 month ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (4 months ago)
 
 #### 📜 My recent blog posts
@@ -38,11 +38,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [batunpc/palpatine](https://github.com/batunpc/palpatine) - Darth sidious does static site generator with unlimited power!⚡ (2 days ago)
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System (2 days ago)
-- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB, FormatJS, Raneto, hapijs/code, webpack-flow, docusaurus, release-it, ts-loader, json-server, reactfire, bunyan, husky, react-easy-state, react-snap, chakra-ui, carbon, alfresco, repolinter, Assemble, Verb, and thousands of other projects. (2 days ago)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (3 days ago)
+- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) (1 day ago)
+- [lydiahallie/CodeBuddy](https://github.com/lydiahallie/CodeBuddy) - :construction: WIP - Connect with developers and find projects :dancers: (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [batunpc/palpatine](https://github.com/batunpc/palpatine) - Darth sidious does static site generator with unlimited power!⚡ (3 days ago)
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System (3 days ago)
 
 #### 💬 Feedback
 
