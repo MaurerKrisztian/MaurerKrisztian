@@ -27,6 +27,9 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (1 month ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (1 month ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (4 months ago)
+- [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (4 months ago)
+- [refactor(config): refactor duplicated default config values](https://github.com/withastro/astro/pull/3504) on [withastro/astro](https://github.com/withastro/astro) (6 months ago)
+- [i18n(pages-hu): Fix typo](https://github.com/withastro/docs/pull/706) on [withastro/docs](https://github.com/withastro/docs) (6 months ago)
 
 #### 📜 My recent blog posts
 
@@ -38,11 +41,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
+- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (today)
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (1 day ago)
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library (1 day ago)
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1 (1 day ago)
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) - A productivity method commits you to completing a daily goal  (4 days ago)
-- [lydiahallie/CodeBuddy](https://github.com/lydiahallie/CodeBuddy) - :construction: WIP - Connect with developers and find projects :dancers: (4 days ago)
 
 #### 💬 Feedback
 
