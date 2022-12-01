@@ -15,7 +15,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 5}}
+{{range recentPullRequests 8}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
