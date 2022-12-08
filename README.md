@@ -6,19 +6,19 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (today)
-- [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (4 days ago)
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (1 day ago)
+- [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (5 days ago)
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) - A productivity method commits you to completing a daily goal  (1 week ago)
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (1 week ago)
 - [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.12.1](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.12.1), 1 day ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.12.1](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.12.1), 2 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 week ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 1 week ago) - A productivity method commits you to completing a daily goal 
-- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 3 weeks ago) -  General-purpose dependency injection framework (IoC)
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.9.0](https://github.com/novuhq/novu/releases/tag/v0.9.0), 3 weeks ago) - The open-source notification infrastructure for products
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 4 weeks ago) -  General-purpose dependency injection framework (IoC)
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.9.0](https://github.com/novuhq/novu/releases/tag/v0.9.0), 4 weeks ago) - The open-source notification infrastructure for products
 
 #### 🔨 Latest Pull Requests I published
 
@@ -33,7 +33,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (3 days ago)
+- [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (4 days ago)
 - [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (1 week ago)
 - [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (3 weeks ago)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (1 month ago)
@@ -41,9 +41,9 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 days ago)
-- [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (4 days ago)
-- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (6 days ago)
+- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (4 days ago)
+- [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (5 days ago)
+- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (1 week ago)
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (1 week ago)
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library (1 week ago)
 
