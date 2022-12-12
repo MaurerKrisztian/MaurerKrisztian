@@ -6,17 +6,17 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (2 days ago)
-- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (2 days ago)
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 days ago)
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (3 days ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (1 week ago)
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) - A productivity method commits you to completing a daily goal  (1 week ago)
 - [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/netlify@1.2.2](https://github.com/withastro/astro/releases/tag/%40astrojs/netlify%401.2.2), 3 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 week ago) - REST framework
-- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 1 week ago) - A productivity method commits you to completing a daily goal 
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/netlify@1.2.2](https://github.com/withastro/astro/releases/tag/%40astrojs/netlify%401.2.2), 4 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 2 weeks ago) - REST framework
+- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 2 weeks ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 1 month ago) -  General-purpose dependency injection framework (IoC)
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.9.0](https://github.com/novuhq/novu/releases/tag/v0.9.0), 1 month ago) - The open-source notification infrastructure for products
 
