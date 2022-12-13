@@ -6,15 +6,15 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 days ago)
-- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (3 days ago)
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (4 days ago)
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (4 days ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (1 week ago)
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) - A productivity method commits you to completing a daily goal  (1 week ago)
 - [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/netlify@1.2.2](https://github.com/withastro/astro/releases/tag/%40astrojs/netlify%401.2.2), 4 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@2.3.6](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%402.3.6), 1 day ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 2 weeks ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 2 weeks ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 1 month ago) -  General-purpose dependency injection framework (IoC)
@@ -22,7 +22,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (2 weeks ago)
+- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (3 weeks ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (3 weeks ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (1 month ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (1 month ago)
@@ -34,8 +34,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 📜 My recent blog posts
 
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (1 week ago)
-- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (1 week ago)
-- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (4 weeks ago)
+- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (2 weeks ago)
+- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (1 month ago)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (1 month ago)
 - [Too many Chrome tabs 😩💣](https://dev.to/maurerkrisztian/too-many-chrome-tabs-57a2) (3 months ago)
 
