@@ -34,7 +34,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 📜 My recent blog posts
 
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (3 weeks ago)
-- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (3 weeks ago)
+- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (4 weeks ago)
 - [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (1 month ago)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (1 month ago)
 - [Too many Chrome tabs 😩💣](https://dev.to/maurerkrisztian/too-many-chrome-tabs-57a2) (3 months ago)
