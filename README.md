@@ -6,19 +6,19 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 weeks ago)
-- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (3 weeks ago)
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (4 weeks ago)
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (4 weeks ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (1 month ago)
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) - A productivity method commits you to completing a daily goal  (1 month ago)
 - [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [withastro/astro](https://github.com/withastro/astro) ([astro@1.9.1](https://github.com/withastro/astro/releases/tag/astro%401.9.1), 1 day ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.10.0](https://github.com/novuhq/novu/releases/tag/v0.10.0), 1 week ago) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 month ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 1 month ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 1 month ago) -  General-purpose dependency injection framework (IoC)
-- [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) ([v3.0.0](https://github.com/metadevpro/openapi3-ts/releases/tag/v3.0.0), 5 months ago) - TS Model &amp; utils for creating and exposing OpenAPI 3.x contracts.
 
 #### 🔨 Latest Pull Requests I published
 
