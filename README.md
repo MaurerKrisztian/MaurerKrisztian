@@ -14,8 +14,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/netlify@2.0.0-beta.1](https://github.com/withastro/astro/releases/tag/%40astrojs/netlify%402.0.0-beta.1), 5 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.10.1](https://github.com/novuhq/novu/releases/tag/v0.10.1), 5 days ago) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/lit@1.0.2](https://github.com/withastro/astro/releases/tag/%40astrojs/lit%401.0.2), 1 day ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.10.1](https://github.com/novuhq/novu/releases/tag/v0.10.1), 6 days ago) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 month ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 1 month ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 2 months ago) -  General-purpose dependency injection framework (IoC)
@@ -35,7 +35,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (1 month ago)
 - [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (1 month ago)
-- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (1 month ago)
+- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (2 months ago)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (2 months ago)
 - [Too many Chrome tabs 😩💣](https://dev.to/maurerkrisztian/too-many-chrome-tabs-57a2) (4 months ago)
 
