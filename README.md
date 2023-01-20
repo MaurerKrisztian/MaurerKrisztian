@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.10.1](https://github.com/novuhq/novu/releases/tag/v0.10.1), 1 week ago) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.10.1](https://github.com/novuhq/novu/releases/tag/v0.10.1), 2 weeks ago) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 month ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 1 month ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 2 months ago) -  General-purpose dependency injection framework (IoC)
@@ -26,8 +26,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (2 months ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (2 months ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (2 months ago)
-- [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (5 months ago)
-- [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (5 months ago)
+- [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (6 months ago)
+- [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (6 months ago)
 - [refactor(config): refactor duplicated default config values](https://github.com/withastro/astro/pull/3504) on [withastro/astro](https://github.com/withastro/astro) (7 months ago)
 - [i18n(pages-hu): Fix typo](https://github.com/withastro/docs/pull/706) on [withastro/docs](https://github.com/withastro/docs) (7 months ago)
 
