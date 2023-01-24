@@ -10,7 +10,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (1 month ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (1 month ago)
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) - A productivity method commits you to completing a daily goal  (1 month ago)
-- [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (1 month ago)
+- [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
