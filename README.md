@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/preact@2.0.2](https://github.com/withastro/astro/releases/tag/%40astrojs/preact%402.0.2), today) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/preact@2.0.2](https://github.com/withastro/astro/releases/tag/%40astrojs/preact%402.0.2), 1 day ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.10.1](https://github.com/novuhq/novu/releases/tag/v0.10.1), 4 weeks ago) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 2 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 2 months ago) - A productivity method commits you to completing a daily goal 
