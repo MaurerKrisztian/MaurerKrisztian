@@ -14,15 +14,15 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/webapi@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/webapi%402.0.1), 2 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.11.0](https://github.com/novuhq/novu/releases/tag/v0.11.0), 2 weeks ago) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻 
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/webapi@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/webapi%402.0.1), 3 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.11.0](https://github.com/novuhq/novu/releases/tag/v0.11.0), 2 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 2 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 2 months ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 3 months ago) -  General-purpose dependency injection framework (IoC)
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (2 months ago)
+- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (3 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (3 months ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (3 months ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (3 months ago)
