@@ -10,11 +10,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (2 months ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (2 months ago)
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) - A productivity method commits you to completing a daily goal  (2 months ago)
-- [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (2 months ago)
+- [MaurerKrisztian/md-to-web](https://github.com/MaurerKrisztian/md-to-web) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/webapi@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/webapi%402.0.1), 5 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/webapi@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/webapi%402.0.1), 6 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.11.0](https://github.com/novuhq/novu/releases/tag/v0.11.0), 2 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 2 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 2 months ago) - A productivity method commits you to completing a daily goal 
