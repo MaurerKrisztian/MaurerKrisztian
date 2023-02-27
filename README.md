@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.1.3](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.1.3), 3 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.1.3](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.1.3), 4 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.11.0](https://github.com/novuhq/novu/releases/tag/v0.11.0), 3 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 3 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 3 months ago) - A productivity method commits you to completing a daily goal 
@@ -28,13 +28,13 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (4 months ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (7 months ago)
 - [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (7 months ago)
-- [refactor(config): refactor duplicated default config values](https://github.com/withastro/astro/pull/3504) on [withastro/astro](https://github.com/withastro/astro) (8 months ago)
+- [refactor(config): refactor duplicated default config values](https://github.com/withastro/astro/pull/3504) on [withastro/astro](https://github.com/withastro/astro) (9 months ago)
 - [i18n(pages-hu): Fix typo](https://github.com/withastro/docs/pull/706) on [withastro/docs](https://github.com/withastro/docs) (9 months ago)
 
 #### 📜 My recent blog posts
 
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (2 months ago)
-- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (2 months ago)
+- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (3 months ago)
 - [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (3 months ago)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (3 months ago)
 - [Too many Chrome tabs 😩💣](https://dev.to/maurerkrisztian/too-many-chrome-tabs-57a2) (5 months ago)
