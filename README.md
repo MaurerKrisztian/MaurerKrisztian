@@ -14,8 +14,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/telemetry@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/telemetry%402.0.1), 1 day ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.11.0](https://github.com/novuhq/novu/releases/tag/v0.11.0), 3 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.12.0](https://github.com/novuhq/novu/releases/tag/v0.12.0), 1 day ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/telemetry@2.0.1](https://github.com/withastro/astro/releases/tag/%40astrojs/telemetry%402.0.1), 2 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 3 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 3 months ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 3 months ago) -  General-purpose dependency injection framework (IoC)
@@ -37,13 +37,13 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (3 months ago)
 - [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (3 months ago)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (3 months ago)
-- [Too many Chrome tabs 😩💣](https://dev.to/maurerkrisztian/too-many-chrome-tabs-57a2) (5 months ago)
+- [Too many Chrome tabs 😩💣](https://dev.to/maurerkrisztian/too-many-chrome-tabs-57a2) (6 months ago)
 
 #### ⭐ Recent stars
 
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 months ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (2 months ago)
-- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (2 months ago)
+- [deepsourcelabs/good-first-issue](https://github.com/deepsourcelabs/good-first-issue) - Make your first open-source contribution. (3 months ago)
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (3 months ago)
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library (3 months ago)
 
