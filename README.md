@@ -14,8 +14,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.0.5](https://github.com/withastro/astro/releases/tag/create-astro%403.0.5), 2 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.12.0](https://github.com/novuhq/novu/releases/tag/v0.12.0), 4 days ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.0.5](https://github.com/withastro/astro/releases/tag/create-astro%403.0.5), 3 days ago) - Build faster websites with Astro&#39;s next-gen island architecture 🏝✨
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.12.0](https://github.com/novuhq/novu/releases/tag/v0.12.0), 5 days ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 3 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 3 months ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 3 months ago) -  General-purpose dependency injection framework (IoC)
