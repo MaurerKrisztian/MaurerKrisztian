@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (6 days ago)
+- [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 week ago)
 - [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (1 week ago)
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 months ago)
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (3 months ago)
@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([astro@2.1.5](https://github.com/withastro/astro/releases/tag/astro%402.1.5), 1 day ago) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) ([astro@2.1.5](https://github.com/withastro/astro/releases/tag/astro%402.1.5), 2 days ago) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.12.0](https://github.com/novuhq/novu/releases/tag/v0.12.0), 3 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 3 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 3 months ago) - A productivity method commits you to completing a daily goal 
@@ -33,7 +33,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (1 week ago)
+- [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (2 weeks ago)
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (3 months ago)
 - [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (3 months ago)
 - [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (4 months ago)
@@ -41,7 +41,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [keijiro/AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor (2 days ago)
+- [keijiro/AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor (3 days ago)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (1 week ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 months ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (3 months ago)
