@@ -7,17 +7,17 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 👷 Check out what I'm currently working on
 
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 week ago)
-- [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (1 week ago)
+- [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (2 weeks ago)
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 months ago)
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (3 months ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdoc@0.0.5](https://github.com/withastro/astro/releases/tag/%40astrojs/markdoc%400.0.5), 3 days ago) - Astro is the all-in-one web framework designed for speed 🏝️✨
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.12.0](https://github.com/novuhq/novu/releases/tag/v0.12.0), 3 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 3 months ago) - REST framework
-- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 3 months ago) - A productivity method commits you to completing a daily goal 
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdoc@0.0.5](https://github.com/withastro/astro/releases/tag/%40astrojs/markdoc%400.0.5), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.12.0](https://github.com/novuhq/novu/releases/tag/v0.12.0), 4 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 4 months ago) - REST framework
+- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 4 months ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 4 months ago) -  General-purpose dependency injection framework (IoC)
 
 #### 🔨 Latest Pull Requests I published
@@ -25,11 +25,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (4 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (4 months ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (4 months ago)
-- [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (4 months ago)
+- [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (5 months ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (8 months ago)
 - [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (8 months ago)
 - [refactor(config): refactor duplicated default config values](https://github.com/withastro/astro/pull/3504) on [withastro/astro](https://github.com/withastro/astro) (9 months ago)
-- [i18n(pages-hu): Fix typo](https://github.com/withastro/docs/pull/706) on [withastro/docs](https://github.com/withastro/docs) (9 months ago)
+- [i18n(pages-hu): Fix typo](https://github.com/withastro/docs/pull/706) on [withastro/docs](https://github.com/withastro/docs) (10 months ago)
 
 #### 📜 My recent blog posts
 
@@ -41,7 +41,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [keijiro/AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor (6 days ago)
+- [keijiro/AICommand](https://github.com/keijiro/AICommand) - ChatGPT integration with Unity Editor (1 week ago)
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.  (2 weeks ago)
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (3 months ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (3 months ago)
