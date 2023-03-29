@@ -14,8 +14,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/markdoc@0.0.5](https://github.com/withastro/astro/releases/tag/%40astrojs/markdoc%400.0.5), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.12.0](https://github.com/novuhq/novu/releases/tag/v0.12.0), 4 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/partytown@1.2.0](https://github.com/withastro/astro/releases/tag/%40astrojs/partytown%401.2.0), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.13.0](https://github.com/novuhq/novu/releases/tag/v0.13.0), 1 day ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 4 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 4 months ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 4 months ago) -  General-purpose dependency injection framework (IoC)
@@ -28,14 +28,14 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (5 months ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (8 months ago)
 - [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (8 months ago)
-- [refactor(config): refactor duplicated default config values](https://github.com/withastro/astro/pull/3504) on [withastro/astro](https://github.com/withastro/astro) (9 months ago)
+- [refactor(config): refactor duplicated default config values](https://github.com/withastro/astro/pull/3504) on [withastro/astro](https://github.com/withastro/astro) (10 months ago)
 - [i18n(pages-hu): Fix typo](https://github.com/withastro/docs/pull/706) on [withastro/docs](https://github.com/withastro/docs) (10 months ago)
 
 #### 📜 My recent blog posts
 
 - [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (2 weeks ago)
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (3 months ago)
-- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (3 months ago)
+- [Make your full-stack project accessible to others 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (4 months ago)
 - [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (4 months ago)
 - [🔨 Useful lib workflows with GitHub actions](https://dev.to/maurerkrisztian/useful-lib-workflows-with-github-actions-3k01) (4 months ago)
 
