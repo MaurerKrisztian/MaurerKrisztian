@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/rss@2.3.2](https://github.com/withastro/astro/releases/tag/%40astrojs/rss%402.3.2), 5 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vue@2.1.1](https://github.com/withastro/astro/releases/tag/%40astrojs/vue%402.1.1), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.13.0](https://github.com/novuhq/novu/releases/tag/v0.13.0), 1 week ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 4 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 4 months ago) - A productivity method commits you to completing a daily goal 
