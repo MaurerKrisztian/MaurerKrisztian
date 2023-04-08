@@ -8,13 +8,13 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (3 weeks ago)
 - [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (3 weeks ago)
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 months ago)
-- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (3 months ago)
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (4 months ago)
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (4 months ago)
 - [MaurerKrisztian/vim-snake](https://github.com/MaurerKrisztian/vim-snake) - Vim snake game (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vue@2.1.1](https://github.com/withastro/astro/releases/tag/%40astrojs/vue%402.1.1), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.18.3](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.18.3), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.13.0](https://github.com/novuhq/novu/releases/tag/v0.13.0), 1 week ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 4 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 4 months ago) - A productivity method commits you to completing a daily goal 
