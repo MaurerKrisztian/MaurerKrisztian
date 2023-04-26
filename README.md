@@ -6,15 +6,15 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT-3. (today)
 - [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (1 week ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 month ago)
 - [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (1 month ago)
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (4 months ago)
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) -  General-purpose dependency injection framework (IoC) (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.2.4](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.2.4), 1 week ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/vercel@3.2.5](https://github.com/withastro/astro/releases/tag/%40astrojs/vercel%403.2.5), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.13.0](https://github.com/novuhq/novu/releases/tag/v0.13.0), 4 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 4 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 4 months ago) - A productivity method commits you to completing a daily goal 
@@ -22,7 +22,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (1 day ago)
+- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (2 days ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (1 week ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (5 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (5 months ago)
@@ -41,8 +41,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model (2 days ago)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (4 days ago)
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model (3 days ago)
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (5 days ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 week ago)
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. (1 week ago)
 - [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (2 weeks ago)
