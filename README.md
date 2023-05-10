@@ -7,15 +7,15 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 👷 Check out what I'm currently working on
 
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 day ago)
-- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (2 days ago)
+- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (3 days ago)
 - [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (3 weeks ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 month ago)
 - [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([astro@2.4.3](https://github.com/withastro/astro/releases/tag/astro%402.4.3), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.0.0-beta.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.0.0-beta.1), 3 days ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/sitemap@1.3.1](https://github.com/withastro/astro/releases/tag/%40astrojs/sitemap%401.3.1), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.0.0-beta.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.0.0-beta.1), 4 days ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.14.0](https://github.com/novuhq/novu/releases/tag/v0.14.0), 1 week ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 5 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 5 months ago) - A productivity method commits you to completing a daily goal 
@@ -41,11 +41,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (1 day ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (3 days ago)
-- [VulcanWM/github-actions-mongodb](https://github.com/VulcanWM/github-actions-mongodb) (5 days ago)
-- [iisyos/star_tweet](https://github.com/iisyos/star_tweet) (5 days ago)
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 week ago)
+- [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (2 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (4 days ago)
+- [VulcanWM/github-actions-mongodb](https://github.com/VulcanWM/github-actions-mongodb) (6 days ago)
+- [iisyos/star_tweet](https://github.com/iisyos/star_tweet) (6 days ago)
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (2 weeks ago)
 
 #### 💬 Feedback
 
