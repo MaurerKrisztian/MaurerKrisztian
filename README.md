@@ -8,21 +8,21 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (5 days ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (1 week ago)
-- [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (4 weeks ago)
+- [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (1 month ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 month ago)
 - [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/node@5.1.3](https://github.com/withastro/astro/releases/tag/%40astrojs/node%405.1.3), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.0.0-beta.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.0.0-beta.1), 1 week ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
+- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.1.5](https://github.com/withastro/astro/releases/tag/create-astro%403.1.5), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 1 day ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.14.0](https://github.com/novuhq/novu/releases/tag/v0.14.0), 2 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 5 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 5 months ago) - A productivity method commits you to completing a daily goal 
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (2 weeks ago)
+- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (3 weeks ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (1 month ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (5 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (5 months ago)
@@ -33,15 +33,15 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
+- [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (1 day ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (2 weeks ago)
 - [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (2 months ago)
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (5 months ago)
 - [Dockerize fullstack application and automate releases 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (5 months ago)
-- [My DI container ✨ type-chef-di](https://dev.to/maurerkrisztian/my-di-container-type-chef-di-23ol) (6 months ago)
 
 #### ⭐ Recent stars
 
-- [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (6 days ago)
+- [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
 - [VulcanWM/github-actions-mongodb](https://github.com/VulcanWM/github-actions-mongodb) (1 week ago)
 - [iisyos/star_tweet](https://github.com/iisyos/star_tweet) (1 week ago)
