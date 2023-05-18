@@ -14,8 +14,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.1.5](https://github.com/withastro/astro/releases/tag/create-astro%403.1.5), 3 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 3 days ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
+- [withastro/astro](https://github.com/withastro/astro) ([create-astro@3.1.5](https://github.com/withastro/astro/releases/tag/create-astro%403.1.5), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 4 days ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.14.0](https://github.com/novuhq/novu/releases/tag/v0.14.0), 2 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 5 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 5 months ago) - A productivity method commits you to completing a daily goal 
@@ -25,7 +25,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (3 weeks ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (1 month ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (5 months ago)
-- [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (5 months ago)
+- [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (6 months ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (6 months ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (6 months ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (9 months ago)
@@ -33,8 +33,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (3 days ago)
-- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (2 weeks ago)
+- [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (4 days ago)
+- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (3 weeks ago)
 - [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (2 months ago)
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (5 months ago)
 - [Dockerize fullstack application and automate releases 🚀](https://dev.to/maurerkrisztian/make-your-full-stack-project-accessible-to-other-483p) (5 months ago)
@@ -43,8 +43,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
-- [VulcanWM/github-actions-mongodb](https://github.com/VulcanWM/github-actions-mongodb) (1 week ago)
-- [iisyos/star_tweet](https://github.com/iisyos/star_tweet) (1 week ago)
+- [VulcanWM/github-actions-mongodb](https://github.com/VulcanWM/github-actions-mongodb) (2 weeks ago)
+- [iisyos/star_tweet](https://github.com/iisyos/star_tweet) (2 weeks ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (3 weeks ago)
 
 #### 💬 Feedback
