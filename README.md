@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/prefetch@0.2.3](https://github.com/withastro/astro/releases/tag/%40astrojs/prefetch%400.2.3), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/prefetch@0.2.3](https://github.com/withastro/astro/releases/tag/%40astrojs/prefetch%400.2.3), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 1 week ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.14.0](https://github.com/novuhq/novu/releases/tag/v0.14.0), 3 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 5 months ago) - REST framework
@@ -22,7 +22,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (3 weeks ago)
+- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (4 weeks ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (1 month ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (6 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (6 months ago)
@@ -41,11 +41,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [achlubek/aero-di](https://github.com/achlubek/aero-di) - Decorator-free dependency injection library for TypeScript (3 days ago)
-- [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (1 week ago)
+- [rodnansol/commit-teller](https://github.com/rodnansol/commit-teller) - Application that can enhance and build a story around your commits to make sure you or other developers will always understand the story of your project. (1 day ago)
+- [achlubek/aero-di](https://github.com/achlubek/aero-di) - Decorator-free dependency injection library for TypeScript (4 days ago)
+- [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (2 weeks ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 weeks ago)
 - [VulcanWM/github-actions-mongodb](https://github.com/VulcanWM/github-actions-mongodb) (2 weeks ago)
-- [iisyos/star_tweet](https://github.com/iisyos/star_tweet) (2 weeks ago)
 
 #### 💬 Feedback
 
