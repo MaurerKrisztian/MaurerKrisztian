@@ -14,9 +14,9 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.4](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.4), 1 day ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.15.0](https://github.com/novuhq/novu/releases/tag/v0.15.0), 1 day ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.4](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.4), 2 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 1 week ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.14.0](https://github.com/novuhq/novu/releases/tag/v0.14.0), 3 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 5 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 5 months ago) - A productivity method commits you to completing a daily goal 
 
@@ -33,17 +33,17 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (2 days ago)
+- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (3 days ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (1 week ago)
-- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (3 weeks ago)
+- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (4 weeks ago)
 - [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (2 months ago)
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (5 months ago)
 
 #### ⭐ Recent stars
 
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content (2 days ago)
-- [rodnansol/commit-teller](https://github.com/rodnansol/commit-teller) - Application that can enhance and build a story around your commits to make sure you or other developers will always understand the story of your project. (3 days ago)
-- [achlubek/aero-di](https://github.com/achlubek/aero-di) - Decorator-free dependency injection library for TypeScript (6 days ago)
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content (3 days ago)
+- [rodnansol/commit-teller](https://github.com/rodnansol/commit-teller) - Application that can enhance and build a story around your commits to make sure you or other developers will always understand the story of your project. (4 days ago)
+- [achlubek/aero-di](https://github.com/achlubek/aero-di) - Decorator-free dependency injection library for TypeScript (1 week ago)
 - [vmfarms/generate_updateinfo](https://github.com/vmfarms/generate_updateinfo) (2 weeks ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (2 weeks ago)
 
