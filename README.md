@@ -7,16 +7,16 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 👷 Check out what I'm currently working on
 
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (2 weeks ago)
-- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (2 weeks ago)
+- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (3 weeks ago)
 - [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (1 month ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (2 months ago)
 - [MaurerKrisztian/CanvasShapesBackground](https://github.com/MaurerKrisztian/CanvasShapesBackground) - Animated circles with Canvas (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.15.0](https://github.com/novuhq/novu/releases/tag/v0.15.0), 3 days ago) - The open-source notification infrastructure with fully functional embedded notification center
-- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.4](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.4), 4 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 1 week ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.15.0](https://github.com/novuhq/novu/releases/tag/v0.15.0), 4 days ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [withastro/astro](https://github.com/withastro/astro) ([@astrojs/mdx@0.19.4](https://github.com/withastro/astro/releases/tag/%40astrojs/mdx%400.19.4), 5 days ago) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 2 weeks ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 6 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 6 months ago) - A productivity method commits you to completing a daily goal 
 
@@ -33,16 +33,16 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (5 days ago)
-- [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (1 week ago)
+- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (6 days ago)
+- [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (2 weeks ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (1 month ago)
 - [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (2 months ago)
 - [AI can be fun](https://dev.to/maurerkrisztian/ai-can-be-fun-4f89) (5 months ago)
 
 #### ⭐ Recent stars
 
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content (5 days ago)
-- [rodnansol/commit-teller](https://github.com/rodnansol/commit-teller) - Application that can enhance and build a story around your commits to make sure you or other developers will always understand the story of your project. (6 days ago)
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content (6 days ago)
+- [rodnansol/commit-teller](https://github.com/rodnansol/commit-teller) - Application that can enhance and build a story around your commits to make sure you or other developers will always understand the story of your project. (1 week ago)
 - [achlubek/aero-di](https://github.com/achlubek/aero-di) - Decorator-free dependency injection library for TypeScript (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (3 weeks ago)
 - [VulcanWM/github-actions-mongodb](https://github.com/VulcanWM/github-actions-mongodb) (3 weeks ago)
