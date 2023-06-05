@@ -33,7 +33,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (1 week ago)
+- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (2 weeks ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (3 weeks ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (1 month ago)
 - [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (2 months ago)
@@ -41,9 +41,9 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (6 days ago)
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform. (6 days ago)
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content (1 week ago)
+- [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (1 week ago)
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform. (1 week ago)
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content (2 weeks ago)
 - [rodnansol/commit-teller](https://github.com/rodnansol/commit-teller) - Application that can enhance and build a story around your commits to make sure you or other developers will always understand the story of your project. (2 weeks ago)
 - [achlubek/aero-di](https://github.com/achlubek/aero-di) - Decorator-free dependency injection library for TypeScript (2 weeks ago)
 
