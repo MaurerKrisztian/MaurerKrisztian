@@ -8,13 +8,13 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 month ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (1 month ago)
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (1 month ago)
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (2 months ago)
 - [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (2 months ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.0](https://github.com/novuhq/novu/releases/tag/v0.16.0), 1 day ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.0](https://github.com/novuhq/novu/releases/tag/v0.16.0), 2 days ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [nestjs/nest](https://github.com/nestjs/nest) ([v10.0.0](https://github.com/nestjs/nest/releases/tag/v10.0.0), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 1 month ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 6 months ago) - REST framework
@@ -22,7 +22,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (1 month ago)
+- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (2 months ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (2 months ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (7 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (7 months ago)
