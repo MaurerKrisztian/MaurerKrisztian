@@ -14,11 +14,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.0](https://github.com/novuhq/novu/releases/tag/v0.16.0), 4 days ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.0](https://github.com/novuhq/novu/releases/tag/v0.16.0), 5 days ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [nestjs/nest](https://github.com/nestjs/nest) ([v10.0.0](https://github.com/nestjs/nest/releases/tag/v10.0.0), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 1 month ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 6 months ago) - REST framework
-- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 6 months ago) - A productivity method commits you to completing a daily goal 
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 7 months ago) - REST framework
+- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 7 months ago) - A productivity method commits you to completing a daily goal 
 
 #### 🔨 Latest Pull Requests I published
 
@@ -27,22 +27,22 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (7 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (7 months ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (7 months ago)
-- [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (7 months ago)
+- [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (8 months ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (11 months ago)
 - [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (11 months ago)
 
 #### 📜 My recent blog posts
 
-- [📕 Unlock Side Project Potential: 1. Introduction](https://dev.to/maurerkrisztian/unlock-side-project-potential-1-introduction-3g4b) (1 week ago)
+- [📕 Unlock Side Project Potential: 1. Introduction](https://dev.to/maurerkrisztian/unlock-side-project-potential-1-introduction-3g4b) (2 weeks ago)
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (1 month ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (1 month ago)
-- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (1 month ago)
+- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (2 months ago)
 - [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (3 months ago)
 
 #### ⭐ Recent stars
 
-- [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (3 weeks ago)
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform. (3 weeks ago)
+- [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (4 weeks ago)
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform. (4 weeks ago)
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content (1 month ago)
 - [rodnansol/commit-teller](https://github.com/rodnansol/commit-teller) - Application that can enhance and build a story around your commits to make sure you or other developers will always understand the story of your project. (1 month ago)
 - [achlubek/aero-di](https://github.com/achlubek/aero-di) - Decorator-free dependency injection library for TypeScript (1 month ago)
