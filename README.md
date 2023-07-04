@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (6 days ago)
+- [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 week ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 month ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (1 month ago)
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (2 months ago)
@@ -41,11 +41,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (1 day ago)
-- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (2 days ago)
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (3 days ago)
+- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (1 day ago)
+- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (2 days ago)
+- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (3 days ago)
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (4 days ago)
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (1 month ago)
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - dyrector.io is a self-hosted container management and delivery platform. (1 month ago)
 
 #### 💬 Feedback
 
