@@ -8,14 +8,14 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 week ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 month ago)
-- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (1 month ago)
+- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (2 months ago)
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (2 months ago)
 - [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.0](https://github.com/novuhq/novu/releases/tag/v0.16.0), 2 weeks ago) - The open-source notification infrastructure with fully functional embedded notification center
-- [nestjs/nest](https://github.com/nestjs/nest) ([v10.0.0](https://github.com/nestjs/nest/releases/tag/v10.0.0), 2 weeks ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) ([v10.0.0](https://github.com/nestjs/nest/releases/tag/v10.0.0), 3 weeks ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 1 month ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 7 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 7 months ago) - A productivity method commits you to completing a daily goal 
@@ -41,10 +41,10 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (2 days ago)
-- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (3 days ago)
-- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (4 days ago)
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (5 days ago)
+- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (3 days ago)
+- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (4 days ago)
+- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (5 days ago)
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (6 days ago)
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (1 month ago)
 
 #### 💬 Feedback
