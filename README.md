@@ -41,10 +41,10 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (3 days ago)
-- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (4 days ago)
-- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (5 days ago)
-- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (6 days ago)
+- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (4 days ago)
+- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (5 days ago)
+- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (6 days ago)
+- [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (1 week ago)
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (1 month ago)
 
 #### 💬 Feedback
