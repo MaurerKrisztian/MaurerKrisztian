@@ -6,11 +6,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
+- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (1 day ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 week ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 month ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (2 months ago)
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (2 months ago)
-- [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) - Machine Learning with Python Examples  (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -37,15 +37,15 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (1 month ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (1 month ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (2 months ago)
-- [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (3 months ago)
+- [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (4 months ago)
 
 #### ⭐ Recent stars
 
-- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (4 days ago)
-- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (5 days ago)
-- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (6 days ago)
+- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (1 day ago)
+- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (5 days ago)
+- [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (6 days ago)
+- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (1 week ago)
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (1 week ago)
-- [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast (1 month ago)
 
 #### 💬 Feedback
 
