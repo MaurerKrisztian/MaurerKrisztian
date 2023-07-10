@@ -33,7 +33,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [📕 Unlock Side Project Potential: 1. Introduction](https://dev.to/maurerkrisztian/unlock-side-project-potential-1-introduction-3g4b) (3 weeks ago)
+- [📕 Unlock Side Project Potential: 1. Introduction](https://dev.to/maurerkrisztian/unlock-side-project-potential-1-introduction-3g4b) (4 weeks ago)
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (1 month ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (1 month ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (2 months ago)
@@ -41,8 +41,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (2 days ago)
-- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (6 days ago)
+- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (3 days ago)
+- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (1 week ago)
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (1 week ago)
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (1 week ago)
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is an open-source alternative to DocSend with built-in analytics. (1 week ago)
