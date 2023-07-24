@@ -14,8 +14,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.4](https://github.com/novuhq/novu/releases/tag/v0.16.4), 5 days ago) - The open-source notification infrastructure with fully functional embedded notification center
-- [nestjs/nest](https://github.com/nestjs/nest) ([v10.1.0](https://github.com/nestjs/nest/releases/tag/v10.1.0), 6 days ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.4](https://github.com/novuhq/novu/releases/tag/v0.16.4), 6 days ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [nestjs/nest](https://github.com/nestjs/nest) ([v10.1.0](https://github.com/nestjs/nest/releases/tag/v10.1.0), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 2 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 7 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 7 months ago) - A productivity method commits you to completing a daily goal 
@@ -43,7 +43,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 An open-source blog template (1 week ago)
 - [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (2 weeks ago)
-- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (2 weeks ago)
+- [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (3 weeks ago)
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (3 weeks ago)
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (3 weeks ago)
 
