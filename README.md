@@ -7,14 +7,14 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 👷 Check out what I'm currently working on
 
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (1 week ago)
-- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (1 week ago)
+- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (2 weeks ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (2 months ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (2 months ago)
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.4](https://github.com/novuhq/novu/releases/tag/v0.16.4), 6 days ago) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) ([v0.16.4](https://github.com/novuhq/novu/releases/tag/v0.16.4), 1 week ago) - The open-source notification infrastructure with fully functional embedded notification center
 - [nestjs/nest](https://github.com/nestjs/nest) ([v10.1.0](https://github.com/nestjs/nest/releases/tag/v10.1.0), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 2 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 7 months ago) - REST framework
@@ -33,7 +33,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (1 week ago)
+- [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (2 weeks ago)
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (2 months ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (2 months ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (2 months ago)
