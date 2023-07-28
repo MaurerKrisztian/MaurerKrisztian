@@ -26,7 +26,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (3 months ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (8 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (8 months ago)
-- [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (8 months ago)
+- [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (9 months ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (9 months ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (1 year ago)
 - [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (1 year ago)
@@ -42,7 +42,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### ⭐ Recent stars
 
 - [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 An open-source blog template (2 weeks ago)
-- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (2 weeks ago)
+- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (3 weeks ago)
 - [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (3 weeks ago)
 - [fritzing/fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application (3 weeks ago)
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) (3 weeks ago)
