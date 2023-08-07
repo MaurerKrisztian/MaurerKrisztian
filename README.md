@@ -14,11 +14,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [nestjs/nest](https://github.com/nestjs/nest) ([v10.1.3](https://github.com/nestjs/nest/releases/tag/v10.1.3), 6 days ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) ([v10.1.3](https://github.com/nestjs/nest/releases/tag/v10.1.3), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 2 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 8 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 8 months ago) - A productivity method commits you to completing a daily goal 
-- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 8 months ago) -  General-purpose dependency injection framework (IoC)
+- [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 9 months ago) -  General-purpose dependency injection framework (IoC)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -37,7 +37,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (2 months ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (2 months ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (3 months ago)
-- [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (4 months ago)
+- [Hello world in electornics](https://dev.to/maurerkrisztian/hello-world-in-electornics-3kp7) (5 months ago)
 
 #### ⭐ Recent stars
 
