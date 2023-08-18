@@ -42,7 +42,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### ⭐ Recent stars
 
 - [slu4coder/The-Minimal-64-Home-Computer](https://github.com/slu4coder/The-Minimal-64-Home-Computer) - Full TTL-only home computer with VGA and PS/2 and twice the processing power of a Commodore 64 (2 weeks ago)
-- [webdevcody/code-racer](https://github.com/webdevcody/code-racer) (2 weeks ago)
+- [webdevcody/code-racer](https://github.com/webdevcody/code-racer) (3 weeks ago)
 - [danielcgilibert/blog-template](https://github.com/danielcgilibert/blog-template) - 📚 Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO, and performance. (1 month ago)
 - [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (1 month ago)
 - [saiyam-agrawal/ESP32-Based-IoT-Weather-Station](https://github.com/saiyam-agrawal/ESP32-Based-IoT-Weather-Station) (1 month ago)
