@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [nestjs/nest](https://github.com/nestjs/nest) ([v10.2.2](https://github.com/nestjs/nest/releases/tag/v10.2.2), 2 weeks ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) ([v10.2.2](https://github.com/nestjs/nest/releases/tag/v10.2.2), 3 weeks ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 4 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 9 months ago) - REST framework
 - [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 9 months ago) - A productivity method commits you to completing a daily goal 
@@ -24,7 +24,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (4 months ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (5 months ago)
-- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (9 months ago)
+- [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (10 months ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (10 months ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (10 months ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (10 months ago)
@@ -41,9 +41,9 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ (4 days ago)
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (5 days ago)
-- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (3 weeks ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ (5 days ago)
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (6 days ago)
+- [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (4 weeks ago)
 - [slu4coder/The-Minimal-64-Home-Computer](https://github.com/slu4coder/The-Minimal-64-Home-Computer) - Full TTL-only home computer with VGA and PS/2 and twice the processing power of a Commodore 64 (1 month ago)
 - [webdevcody/code-racer](https://github.com/webdevcody/code-racer) (1 month ago)
 
