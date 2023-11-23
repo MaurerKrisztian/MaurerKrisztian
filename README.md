@@ -16,8 +16,8 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [nestjs/nest](https://github.com/nestjs/nest) ([v10.2.7](https://github.com/nestjs/nest/releases/tag/v10.2.7), 1 month ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 6 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 11 months ago) - REST framework
-- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 11 months ago) - A productivity method commits you to completing a daily goal 
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
+- [MaurerKrisztian/dont-break-the-chain](https://github.com/MaurerKrisztian/dont-break-the-chain) ([v0.0.4](https://github.com/MaurerKrisztian/dont-break-the-chain/releases/tag/v0.0.4), 1 year ago) - A productivity method commits you to completing a daily goal 
 - [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) ([v0.3.1](https://github.com/OpenZer0/type-chef-di/releases/tag/v0.3.1), 1 year ago) -  General-purpose dependency injection framework (IoC)
 
 #### 🔨 Latest Pull Requests I published
@@ -37,7 +37,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (4 months ago)
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (6 months ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (6 months ago)
-- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (6 months ago)
+- [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (7 months ago)
 
 #### ⭐ Recent stars
 
