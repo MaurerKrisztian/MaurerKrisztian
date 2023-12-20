@@ -6,21 +6,21 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (6 days ago)
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (6 days ago)
+- [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (1 week ago)
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (1 week ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 week ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (5 months ago)
 - [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.0](https://github.com/nestjs/nest/releases/tag/v10.3.0), 1 day ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.0](https://github.com/nestjs/nest/releases/tag/v10.3.0), 2 days ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 7 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (7 months ago)
+- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (8 months ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (8 months ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (1 year ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 year ago)
