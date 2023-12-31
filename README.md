@@ -6,11 +6,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
+- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (1 day ago)
 - [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (2 weeks ago)
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (2 weeks ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (2 weeks ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (5 months ago)
-- [MaurerKrisztian/PCB_Perfboard_designer](https://github.com/MaurerKrisztian/PCB_Perfboard_designer) - The PCB Perfboard Designer is a user-friendly tool that lets you design circuit prototypes on a virtual perfboard (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,11 +39,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
+- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (1 day ago)
 - [lightrail-ai/lightrail](https://github.com/lightrail-ai/lightrail) - Lightrail Monorepo (3 months ago)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ (3 months ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (3 months ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (4 months ago)
-- [slu4coder/The-Minimal-64-Home-Computer](https://github.com/slu4coder/The-Minimal-64-Home-Computer) - Full TTL-only home computer with VGA and PS/2 and twice the processing power of a Commodore 64 (5 months ago)
 
 #### 💬 Feedback
 
