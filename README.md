@@ -6,10 +6,10 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (1 day ago)
+- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (2 days ago)
 - [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (2 weeks ago)
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (2 weeks ago)
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (2 weeks ago)
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (3 weeks ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -39,7 +39,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (2 days ago)
+- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (3 days ago)
 - [lightrail-ai/lightrail](https://github.com/lightrail-ai/lightrail) - Lightrail Monorepo (3 months ago)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡ (3 months ago)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one (3 months ago)
