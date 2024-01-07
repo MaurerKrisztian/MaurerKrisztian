@@ -32,7 +32,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 📜 My recent blog posts
 
 - [Who Ate My Disk Space? It&#39;s &#34;node_modules&#34; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp) (3 months ago)
-- [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (5 months ago)
+- [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (6 months ago)
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (7 months ago)
 - [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (7 months ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (8 months ago)
