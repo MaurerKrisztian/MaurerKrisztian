@@ -6,16 +6,16 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (1 day ago)
+- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (2 days ago)
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (3 weeks ago)
 - [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (3 weeks ago)
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (3 weeks ago)
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (4 weeks ago)
 - [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.0](https://github.com/nestjs/nest/releases/tag/v10.3.0), 3 weeks ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 7 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1), 8 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
 
 #### 🔨 Latest Pull Requests I published
@@ -34,7 +34,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Who Ate My Disk Space? It&#39;s &#34;node_modules&#34; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp) (3 months ago)
 - [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (6 months ago)
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (7 months ago)
-- [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (7 months ago)
+- [AI-Powered GitHub Issue Management 🦾](https://dev.to/maurerkrisztian/building-an-innovative-ai-tool-to-revolutionize-github-issues-management-14bb) (8 months ago)
 - [Improve GitHub issues with AI 🦾](https://dev.to/maurerkrisztian/improve-github-issues-with-ai-4lam) (8 months ago)
 
 #### ⭐ Recent stars
