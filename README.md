@@ -6,11 +6,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
+- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (1 day ago)
 - [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (3 weeks ago)
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (1 month ago)
 - [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (1 month ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 month ago)
-- [MaurerKrisztian/my-portfolio-astro](https://github.com/MaurerKrisztian/my-portfolio-astro) (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
