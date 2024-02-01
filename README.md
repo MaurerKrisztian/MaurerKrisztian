@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (1 day ago)
+- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (2 days ago)
 - [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (3 weeks ago)
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) - REST framework (1 month ago)
 - [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (1 month ago)
