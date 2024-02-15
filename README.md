@@ -39,7 +39,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [milhidaka/webgpu-blas](https://github.com/milhidaka/webgpu-blas) - Fast matrix-matrix multiplication on web browser using WebGPU (1 week ago)
+- [milhidaka/webgpu-blas](https://github.com/milhidaka/webgpu-blas) - Fast matrix-matrix multiplication on web browser using WebGPU (2 weeks ago)
 - [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (1 month ago)
 - [lightrail-ai/lightrail](https://github.com/lightrail-ai/lightrail) - Lightrail Monorepo (4 months ago)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (5 months ago)
