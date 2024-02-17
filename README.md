@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 day ago)
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (2 days ago)
 - [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (2 weeks ago)
 - [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (1 month ago)
 - [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (2 months ago)
@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 1 day ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 2 days ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.2](https://github.com/nestjs/nest/releases/tag/v10.3.2), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
 
