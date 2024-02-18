@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (2 days ago)
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (3 days ago)
 - [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (2 weeks ago)
 - [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (1 month ago)
 - [MaurerKrisztian/template-client](https://github.com/MaurerKrisztian/template-client) (2 months ago)
@@ -14,13 +14,13 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 2 days ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
+- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 3 days ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.2](https://github.com/nestjs/nest/releases/tag/v10.3.2), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
 
 #### 🔨 Latest Pull Requests I published
 
-- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (9 months ago)
+- [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (10 months ago)
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (10 months ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (1 year ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 year ago)
