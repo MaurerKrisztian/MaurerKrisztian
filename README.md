@@ -6,11 +6,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
+- [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (today)
 - [MaurerKrisztian/vrc-tts-osc](https://github.com/MaurerKrisztian/vrc-tts-osc) - Text-to-Speech &amp; AI Bot With OSC Integration (1 week ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (2 weeks ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (3 weeks ago)
 - [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (1 month ago)
-- [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,9 +39,9 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node (1 week ago)
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node (2 weeks ago)
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper. (2 weeks ago)
-- [brilliantlabsAR/monocle-micropython](https://github.com/brilliantlabsAR/monocle-micropython) - Micropython ported to the Monocle (2 weeks ago)
+- [brilliantlabsAR/monocle-micropython](https://github.com/brilliantlabsAR/monocle-micropython) - Micropython ported to the Monocle (3 weeks ago)
 - [milhidaka/webgpu-blas](https://github.com/milhidaka/webgpu-blas) - Fast matrix-matrix multiplication on web browser using WebGPU (1 month ago)
 - [MaurerKrisztian/music-visualizer](https://github.com/MaurerKrisztian/music-visualizer) - web based music visualizer (2 months ago)
 
