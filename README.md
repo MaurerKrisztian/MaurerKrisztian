@@ -7,14 +7,14 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 👷 Check out what I'm currently working on
 
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (1 week ago)
-- [MaurerKrisztian/vrc-tts-osc](https://github.com/MaurerKrisztian/vrc-tts-osc) - Text-to-Speech &amp; AI Bot With OSC Integration (3 weeks ago)
+- [MaurerKrisztian/vrc-tts-osc](https://github.com/MaurerKrisztian/vrc-tts-osc) - Text-to-Speech &amp; AI Bot With OSC Integration (4 weeks ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (1 month ago)
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (1 month ago)
 - [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.4](https://github.com/nestjs/nest/releases/tag/v10.3.4), 6 days ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.4](https://github.com/nestjs/nest/releases/tag/v10.3.4), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 1 month ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
 
@@ -42,7 +42,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (1 week ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (1 week ago)
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node (4 weeks ago)
-- [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper. (4 weeks ago)
+- [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper. (1 month ago)
 - [brilliantlabsAR/monocle-micropython](https://github.com/brilliantlabsAR/monocle-micropython) - Micropython ported to the Monocle (1 month ago)
 
 #### 💬 Feedback
