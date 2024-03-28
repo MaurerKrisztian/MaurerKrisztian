@@ -14,7 +14,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.4](https://github.com/nestjs/nest/releases/tag/v10.3.4), 1 week ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) ([v10.3.6](https://github.com/nestjs/nest/releases/tag/v10.3.6), 1 day ago) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 1 month ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 - [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
 
@@ -39,7 +39,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (2 days ago)
+- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (3 days ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (1 week ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (2 weeks ago)
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node (1 month ago)
