@@ -21,7 +21,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 🔨 Latest Pull Requests I published
 
 - [refactor(common): Add generic to InjectionToken type](https://github.com/nestjs/nest/pull/11555) on [nestjs/nest](https://github.com/nestjs/nest) (11 months ago)
-- [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (11 months ago)
+- [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (1 year ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (1 year ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 year ago)
 - [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (1 year ago)
@@ -32,7 +32,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 📜 My recent blog posts
 
 - [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (3 weeks ago)
-- [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (3 weeks ago)
+- [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (4 weeks ago)
 - [Who Ate My Disk Space? It&#39;s &#34;node_modules&#34; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp) (6 months ago)
 - [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (9 months ago)
 - [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (10 months ago)
