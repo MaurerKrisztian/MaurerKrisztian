@@ -39,7 +39,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (1 week ago)
+- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (2 weeks ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (3 weeks ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (3 weeks ago)
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node (1 month ago)
