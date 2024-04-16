@@ -35,11 +35,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (1 month ago)
 - [Who Ate My Disk Space? It&#39;s &#34;node_modules&#34; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp) (6 months ago)
 - [Perfboard Designer in Html Canvas And The Underlying Solutions In My Project](https://dev.to/maurerkrisztian/delve-into-html-canvas-the-underlying-solutions-in-my-project-18a) (9 months ago)
-- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (10 months ago)
+- [What is it like to be a software developer?](https://dev.to/maurerkrisztian/what-is-it-like-to-be-a-software-developer-2ihg) (11 months ago)
 
 #### ⭐ Recent stars
 
-- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (6 days ago)
+- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (1 week ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (3 weeks ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (1 month ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (1 month ago)
