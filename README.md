@@ -24,7 +24,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Create LICENSE](https://github.com/MaurerKrisztian/Machine_Learning/pull/1) on [MaurerKrisztian/Machine_Learning](https://github.com/MaurerKrisztian/Machine_Learning) (1 year ago)
 - [docs: MIT License](https://github.com/OpenZer0/bonfire-rest/pull/3) on [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) (1 year ago)
 - [feat: merge path](https://github.com/metadevpro/openapi3-ts/pull/91) on [metadevpro/openapi3-ts](https://github.com/metadevpro/openapi3-ts) (1 year ago)
-- [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (1 year ago)
+- [build, index, sonarcloud](https://github.com/OpenZer0/type-chef-di/pull/2) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (2 years ago)
 - [move project](https://github.com/OpenZer0/type-chef-di/pull/1) on [OpenZer0/type-chef-di](https://github.com/OpenZer0/type-chef-di) (2 years ago)
 - [feat(web): add remove member button #841](https://github.com/novuhq/novu/pull/888) on [novuhq/novu](https://github.com/novuhq/novu) (2 years ago)
 - [fix(logo): update mailjet logo in dark theme #878](https://github.com/novuhq/novu/pull/887) on [novuhq/novu](https://github.com/novuhq/novu) (2 years ago)
@@ -39,7 +39,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (1 week ago)
+- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (2 weeks ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (4 weeks ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (1 month ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (1 month ago)
