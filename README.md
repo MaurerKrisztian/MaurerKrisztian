@@ -15,7 +15,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 #### 🔭 Latest releases I've contributed to
 
 - [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 3 months ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
-- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 1 year ago) - REST framework
+- [OpenZer0/bonfire-rest](https://github.com/OpenZer0/bonfire-rest) ([v0.2.2](https://github.com/OpenZer0/bonfire-rest/releases/tag/v0.2.2), 2 years ago) - REST framework
 
 #### 🔨 Latest Pull Requests I published
 
@@ -38,7 +38,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (6 days ago)
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (1 week ago)
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (1 month ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (1 month ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (2 months ago)
