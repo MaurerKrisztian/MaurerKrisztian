@@ -6,11 +6,11 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/training_data_genration_with_openai](https://github.com/MaurerKrisztian/training_data_genration_with_openai) (4 weeks ago)
+- [MaurerKrisztian/ML_jupyter_notebooks](https://github.com/MaurerKrisztian/ML_jupyter_notebooks) (1 day ago)
+- [MaurerKrisztian/training_data_genration_with_openai](https://github.com/MaurerKrisztian/training_data_genration_with_openai) (1 month ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (4 months ago)
 - [MaurerKrisztian/vrc-tts-osc](https://github.com/MaurerKrisztian/vrc-tts-osc) - Text-to-Speech &amp; AI Bot With OSC Integration (4 months ago)
 - [MaurerKrisztian/issue-improver-action-demo](https://github.com/MaurerKrisztian/issue-improver-action-demo) - This is a demo repo where you can try the issue-improver-action github action (5 months ago)
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) - GitHub Action that automates issue improvement suggestions using OpenAI GPT. (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,7 +40,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (2 months ago)
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (3 months ago)
-- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (3 months ago)
+- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (4 months ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (4 months ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (4 months ago)
 
