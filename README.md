@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/ML_jupyter_notebooks](https://github.com/MaurerKrisztian/ML_jupyter_notebooks) (4 weeks ago)
+- [MaurerKrisztian/ML_jupyter_notebooks](https://github.com/MaurerKrisztian/ML_jupyter_notebooks) (1 month ago)
 - [MaurerKrisztian/NexiRSS](https://github.com/MaurerKrisztian/NexiRSS) - AI powered RSS feed (1 month ago)
 - [MaurerKrisztian/training_data_genration_with_openai](https://github.com/MaurerKrisztian/training_data_genration_with_openai) (1 month ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (5 months ago)
@@ -30,7 +30,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l) (1 month ago)
+- [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l) (2 months ago)
 - [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (5 months ago)
 - [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (5 months ago)
 - [Who Ate My Disk Space? It&#39;s &#34;node_modules&#34; Again! 🕵️‍♂️](https://dev.to/maurerkrisztian/who-ate-my-disk-space-its-nodemodules-again-23dp) (10 months ago)
