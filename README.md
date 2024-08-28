@@ -6,9 +6,9 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/image-similarity-search-with-vector-db-example](https://github.com/MaurerKrisztian/image-similarity-search-with-vector-db-example) (4 days ago)
+- [MaurerKrisztian/image-similarity-search-with-vector-db-example](https://github.com/MaurerKrisztian/image-similarity-search-with-vector-db-example) (5 days ago)
 - [MaurerKrisztian/ML_jupyter_notebooks](https://github.com/MaurerKrisztian/ML_jupyter_notebooks) (1 month ago)
-- [MaurerKrisztian/NexiRSS](https://github.com/MaurerKrisztian/NexiRSS) - AI powered RSS feed (1 month ago)
+- [MaurerKrisztian/NexiRSS](https://github.com/MaurerKrisztian/NexiRSS) - AI powered RSS feed (2 months ago)
 - [MaurerKrisztian/training_data_genration_with_openai](https://github.com/MaurerKrisztian/training_data_genration_with_openai) (2 months ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (5 months ago)
 
