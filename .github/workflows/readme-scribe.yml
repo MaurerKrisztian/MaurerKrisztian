@@ -4,6 +4,7 @@ on:
   push:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   markscribe:
@@ -18,7 +19,7 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v3
         with:
           name: README.md
           path: README.md
