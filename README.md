@@ -10,7 +10,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [MaurerKrisztian/image-similarity-search-with-vector-db-example](https://github.com/MaurerKrisztian/image-similarity-search-with-vector-db-example) (1 month ago)
 - [MaurerKrisztian/ML_jupyter_notebooks](https://github.com/MaurerKrisztian/ML_jupyter_notebooks) (3 months ago)
 - [MaurerKrisztian/NexiRSS](https://github.com/MaurerKrisztian/NexiRSS) - AI powered RSS feed (3 months ago)
-- [MaurerKrisztian/training_data_genration_with_openai](https://github.com/MaurerKrisztian/training_data_genration_with_openai) (3 months ago)
+- [MaurerKrisztian/training_data_genration_with_openai](https://github.com/MaurerKrisztian/training_data_genration_with_openai) (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -40,7 +40,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (5 months ago)
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (6 months ago)
-- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (6 months ago)
+- [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (7 months ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (7 months ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (7 months ago)
 
