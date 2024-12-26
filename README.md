@@ -10,7 +10,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [MaurerKrisztian/alien-Invasion-developer-call-game](https://github.com/MaurerKrisztian/alien-Invasion-developer-call-game) - web learning game (2 months ago)
 - [MaurerKrisztian/image-similarity-search-with-vector-db-example](https://github.com/MaurerKrisztian/image-similarity-search-with-vector-db-example) (4 months ago)
 - [MaurerKrisztian/ML_jupyter_notebooks](https://github.com/MaurerKrisztian/ML_jupyter_notebooks) (5 months ago)
-- [MaurerKrisztian/NexiRSS](https://github.com/MaurerKrisztian/NexiRSS) - AI powered RSS feed (5 months ago)
+- [MaurerKrisztian/NexiRSS](https://github.com/MaurerKrisztian/NexiRSS) - AI powered RSS feed (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
