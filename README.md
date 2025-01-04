@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (3 weeks ago)
+- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (4 weeks ago)
 - [MaurerKrisztian/alien-Invasion-developer-call-game](https://github.com/MaurerKrisztian/alien-Invasion-developer-call-game) - web learning game (3 months ago)
 - [MaurerKrisztian/image-similarity-search-with-vector-db-example](https://github.com/MaurerKrisztian/image-similarity-search-with-vector-db-example) (4 months ago)
 - [MaurerKrisztian/ML_jupyter_notebooks](https://github.com/MaurerKrisztian/ML_jupyter_notebooks) (5 months ago)
@@ -29,16 +29,16 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [Understanding Neural Networks: A Simple Interactive Visualization ⚙️](https://dev.to/maurerkrisztian/understanding-neural-networks-a-simple-interactive-visualization-4pi8) (3 weeks ago)
+- [Understanding Neural Networks: A Simple Interactive Visualization ⚙️](https://dev.to/maurerkrisztian/understanding-neural-networks-a-simple-interactive-visualization-4pi8) (4 weeks ago)
 - [Alien Invasion: Developer&#39;s Call](https://dev.to/maurerkrisztian/web-game-challenge-alien-invasion-developers-call-13gn) (3 months ago)
 - [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l) (6 months ago)
 - [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (9 months ago)
-- [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (9 months ago)
+- [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (10 months ago)
 
 #### ⭐ Recent stars
 
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (7 months ago)
-- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (8 months ago)
+- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (9 months ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (9 months ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (9 months ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (9 months ago)
