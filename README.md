@@ -33,12 +33,12 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Alien Invasion: Developer&#39;s Call](https://dev.to/maurerkrisztian/web-game-challenge-alien-invasion-developers-call-13gn) (4 months ago)
 - [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l) (7 months ago)
 - [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (10 months ago)
-- [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (10 months ago)
+- [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (11 months ago)
 
 #### ⭐ Recent stars
 
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (8 months ago)
-- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (9 months ago)
+- [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (10 months ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (10 months ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (10 months ago)
 - [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (10 months ago)
