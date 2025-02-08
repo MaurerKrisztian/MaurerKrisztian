@@ -37,7 +37,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (8 months ago)
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (9 months ago)
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (10 months ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (10 months ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (10 months ago)
