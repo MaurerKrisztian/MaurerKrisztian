@@ -14,7 +14,6 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 🔭 Latest releases I've contributed to
 
-- [MaurerKrisztian/issue-improver-action](https://github.com/MaurerKrisztian/issue-improver-action) ([v1.1](https://github.com/MaurerKrisztian/issue-improver-action/releases/tag/v1.1), 1 year ago) - GitHub Action that automates issue improvement suggestions using OpenAI GPT.
 
 #### 🔨 Latest Pull Requests I published
 
