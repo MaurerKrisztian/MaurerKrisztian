@@ -31,7 +31,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [Understanding Neural Networks: A Simple Interactive Visualization ⚙️](https://dev.to/maurerkrisztian/understanding-neural-networks-a-simple-interactive-visualization-4pi8) (3 months ago)
 - [Alien Invasion: Developer&#39;s Call](https://dev.to/maurerkrisztian/web-game-challenge-alien-invasion-developers-call-13gn) (5 months ago)
 - [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l) (8 months ago)
-- [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (11 months ago)
+- [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (1 year ago)
 - [Make the OpenAI Function Calling Work Better and Cheaper with a Two-Step Function Call 🚀](https://dev.to/maurerkrisztian/make-the-openai-function-calling-work-better-and-cheaper-with-a-two-step-function-call-1p96) (1 year ago)
 
 #### ⭐ Recent stars
