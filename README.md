@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (8 months ago)
+- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (9 months ago)
 - [MaurerKrisztian/alien-Invasion-developer-call-game](https://github.com/MaurerKrisztian/alien-Invasion-developer-call-game) - web learning game (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -25,7 +25,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [Understanding Neural Networks: A Simple Interactive Visualization ⚙️](https://dev.to/maurerkrisztian/understanding-neural-networks-a-simple-interactive-visualization-4pi8) (8 months ago)
+- [Understanding Neural Networks: A Simple Interactive Visualization ⚙️](https://dev.to/maurerkrisztian/understanding-neural-networks-a-simple-interactive-visualization-4pi8) (9 months ago)
 - [Alien Invasion: Developer&#39;s Call](https://dev.to/maurerkrisztian/web-game-challenge-alien-invasion-developers-call-13gn) (11 months ago)
 - [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l) (1 year ago)
 - [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (1 year ago)
@@ -37,7 +37,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (1 year ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (1 year ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (1 year ago)
-- [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (1 year ago)
+- [MaurerKrisztian/two-step-llm-tool-call](https://github.com/MaurerKrisztian/two-step-llm-tool-call) - Make LLM Tools Work Better and Cheaper with a Two-Step Tool Call (2 years ago)
 
 #### 💬 Feedback
 
