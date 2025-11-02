@@ -6,7 +6,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 👷 Check out what I'm currently working on
 
-- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (10 months ago)
+- [MaurerKrisztian/ml-visualizer](https://github.com/MaurerKrisztian/ml-visualizer) - Visualize &amp; interact with ML models training process on web (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -24,7 +24,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### 📜 My recent blog posts
 
-- [Understanding Neural Networks: A Simple Interactive Visualization ⚙️](https://dev.to/maurerkrisztian/understanding-neural-networks-a-simple-interactive-visualization-4pi8) (10 months ago)
+- [Understanding Neural Networks: A Simple Interactive Visualization ⚙️](https://dev.to/maurerkrisztian/understanding-neural-networks-a-simple-interactive-visualization-4pi8) (11 months ago)
 - [Alien Invasion: Developer&#39;s Call](https://dev.to/maurerkrisztian/web-game-challenge-alien-invasion-developers-call-13gn) (1 year ago)
 - [Generating training data with OpenAI function calling](https://dev.to/maurerkrisztian/generating-training-data-with-openai-function-calling-2c7l) (1 year ago)
 - [Automate Your Node.js Version Switching](https://dev.to/maurerkrisztian/automate-your-nvm-version-switching-1fb9) (2 years ago)
