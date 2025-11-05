@@ -32,7 +32,7 @@ I'm the author of https://github.com/OpenZer0 packages.
 
 #### ⭐ Recent stars
 
-- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (1 year ago)
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release (2 years ago)
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) (2 years ago)
 - [org-SCAN/website](https://github.com/org-SCAN/website) - Site web du projet (2 years ago)
 - [TrelisResearch/one-click-llms](https://github.com/TrelisResearch/one-click-llms) - One click templates for inferencing Language Models (2 years ago)
